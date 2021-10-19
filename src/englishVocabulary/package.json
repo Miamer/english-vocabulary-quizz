@@ -1,0 +1,17 @@
+{
+  "name": "englishvocabulary",
+  "version": "1.0.0",
+  "description": "To learn the vocabulary of my reading by quizz",
+  "main": "quizz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quizz",
+    "vocabulary",
+    "english",
+    "learn"
+  ],
+  "author": "Aymeric Bertrand",
+  "license": "MIT"
+}
