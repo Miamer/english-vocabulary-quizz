@@ -1,0 +1,32 @@
+
+handler	gestionnaire
+behavior	comportement
+to process	traiter
+processing	en traitement
+is set to	est réglé sur
+issue	problème
+mean	moyen
+release	publication
+beyond	au dela
+pads	remplit
+the padding	le remplissage
+overall	global
+layer	couche
+engine	moteur
+however	cependant
+biding	liaison
+loop	boucle
+throw	lancé
+such as	tel que
+stack	pile
+stacking	empiler
+stacked	empilé
+allowed	autorisé
+statement	déclaration
+twice	à deux reprises
+kind of	type de
+empty	vide
+the whole	l'ensemble
+pitfalls	piège
+parsing	 l'analyse
+encounters	rencontre
